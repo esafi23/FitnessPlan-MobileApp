@@ -1,0 +1,7 @@
+{
+  "name": "fitnessplan-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
